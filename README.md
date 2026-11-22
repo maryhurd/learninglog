@@ -13,6 +13,8 @@ TEMPLATE.md             copy this to start a new entry
 
 ## Recent entries
 
+- [2026-11-22](2026/11/2026-11-22.md): The quickest way to create a skill is to codify the conversation
+- [2026-11-19](2026/11/2026-11-19.md): Getting the log live; why web commits count straight away
 - [2026-11-15](2026/11/2026-11-15.md): Starting the log; how Claude Code work ends up on GitHub
 
 ## Themes I keep coming back to
